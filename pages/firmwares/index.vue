@@ -46,7 +46,7 @@
 
 <style lang="css">
 .BlueButtonContainer{
-	width: 97%;
+	width: 98%;
 	display: inline-flex;
 	justify-content: flex-end;
 }
